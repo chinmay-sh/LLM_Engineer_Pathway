@@ -471,6 +471,16 @@ Apply your knowledge through hands-on projects to deepen your understanding of L
 
 ---
 
+### 🔗 Fine-Tuning Projects
+
+1. **[Fine-Tuning GPT-2 on the Bhagavad Gita](https://medium.com/@sharanharsoor/fine-tuning-gpt-2-on-the-bhagavad-gita-6874781c2341)**  
+   *Description*: A tutorial on fine-tuning GPT-2 with custom datasets.
+
+2. **[Exploring Ancient Texts Through Fine-Tuning](https://blog.stackademic.com/bridging-epochs-sampling-ai-fine-tuning-with-ancient-wisdom-205bdfb8255b)**  
+   *Description*: Learn fine-tuning techniques by using historical texts like the Bhagavad Gita.
+
+---
+
 ## 🎓 Step 10: GenAI Specializations
 
 Master the field of Generative AI with specialized certifications and programs. These courses cover comprehensive knowledge and advanced applications of LLMs. 🌟
