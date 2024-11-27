@@ -1,5 +1,7 @@
 # 🌟 Pathway to Become an LLM Engineer 🌟
 
+![Botboi](image.webp)
+
 Embark on a journey to master Large Language Models (LLMs) and become an expert LLM Engineer! 🚀 This guide provides a step-by-step roadmap with resources, projects, and tools to build your expertise.
 
 ---
