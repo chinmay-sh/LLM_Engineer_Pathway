@@ -6,6 +6,10 @@ Embark on a journey to master Large Language Models (LLMs) and become an expert 
 
 ---
 
+NOTE: Not every course in each section needs to be done, this is just a guideline to create a structure to learning. Feel free to skip courses as per your level of understanding.
+
+---
+
 ## 📖 Step 1: Base Resources
 
 Lay a strong foundation with these essential resources to kickstart your LLM engineering journey. 📚
