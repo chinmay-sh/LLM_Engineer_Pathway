@@ -33,19 +33,13 @@ Dive into the fundamentals of Large Language Models (LLMs), exploring their arch
 1. **[Getting Started with LLMs by Analytics Vidhya](https://courses.analyticsvidhya.com/courses/getting-started-with-llms)**  
    *Description*: A beginner-friendly course explaining LLM concepts and use cases.
 
-2. **[Finetuning Large Language Models (DeepLearning.AI)](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/)**  
-   *Description*: A short course to learn fine-tuning techniques for large language models.
-
-3. **[Coursera Project: Finetuning LLMs](https://www.coursera.org/projects/finetuning-large-language-models-project)**  
-   *Description*: A hands-on guided project on fine-tuning LLMs using state-of-the-art tools.
-
-4. **[Generative AI with LLMs (Coursera)](https://www.coursera.org/learn/generative-ai-with-llms)**  
+2. **[Generative AI with LLMs (Coursera)](https://www.coursera.org/learn/generative-ai-with-llms)**  
    *Description*: A course introducing generative AI concepts, focusing on LLMs.
 
-5. **[Analytics Vidhya Blogs](https://www.analyticsvidhya.com/blog/2024/10/learning-path-for-ai-agents)**  
+3. **[Analytics Vidhya Blogs](https://www.analyticsvidhya.com/blog/2024/10/learning-path-for-ai-agents)**  
    *Description*: Explore blogs for introductory and detailed articles on LLMs.
 
-6. **[GitHub LLM Engineer: Step 1](https://github.com/mlabonne/llm-course?tab=readme-ov-file)**  
+4. **[GitHub LLM Engineer: Step 1](https://github.com/mlabonne/llm-course?tab=readme-ov-file)**  
    *Description*: Follow the initial step in this GitHub repository for hands-on exercises and reading material.
 
 ---
@@ -328,6 +322,12 @@ Customize Large Language Models (LLMs) for specific tasks and optimize their inf
 
 14. **[Axolotl for Fine-Tuning](https://adithyask.medium.com/axolotl-is-all-you-need-331d5de1b7c0)**  
     *Description*: Explore Axolotl, a framework for fine-tuning LLMs efficiently.
+
+15. **[Finetuning Large Language Models (DeepLearning.AI)](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/)**  
+   *Description*: A short course to learn fine-tuning techniques for large language models.
+
+16. **[Coursera Project: Finetuning LLMs](https://www.coursera.org/projects/finetuning-large-language-models-project)**  
+   *Description*: A hands-on guided project on fine-tuning LLMs using state-of-the-art tools.
 
 ---
 
