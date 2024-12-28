@@ -178,6 +178,8 @@ Unleash the creativity of AI agents! This section covers frameworks like CrewAI,
 2. **[LLM Agents YouTube Playlist](https://www.youtube.com/playlist?list=PL86ARIu_ElO7HOm7cVgzfEs_NwSdfhHFA)**  
    *Description*: A curated playlist explaining concepts and examples of LLM agents.
 
+3. **[Krish Naik's AI Agents Course](https://learn.krishnaikacademy.com/web/courses)**
+   *Description*: A detailed course on AI agents and their use cases by Krish Naik.
 ---
 
 ### 🔗 CrewAI
